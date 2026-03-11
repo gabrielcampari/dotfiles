@@ -61,6 +61,7 @@ if [ -x /usr/bin/dircolors ]; then
 	alias l='ls -CF'
 	alias update='sudo apt update && sudo apt upgrade -y'
 	alias cls='clear'
+	alias shutdown 0='shutdown'
 fi
 
 #Alert Visual after long commands
