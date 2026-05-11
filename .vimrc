@@ -1,6 +1,6 @@
 set number
-syntax enable
-set tittle 
+syntax on
+set title 
 set mouse=a
 set incsearch
 colorscheme retrobox
